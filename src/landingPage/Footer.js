@@ -9,7 +9,7 @@ function Footer() {
           {/* Brand & Social Media */}
           <div className="col-md-3">
             <img
-              src="/media/images/logo.png"
+              src="/media/images/finalLogo.png"
               className="w-50 mb-2"
               alt="Expense Tracker Logo"
             />

@@ -25,7 +25,7 @@ function Navbar() {
     <nav className="navbar navbar-expand-lg border-bottom sticky-top" style={{ backgroundColor: "#FFF" }}>
       <div className="container p-2">
         <Link className="navbar-brand" to={"/"}>
-          <img src="media/images/logo.png" style={{ width: "33%" }} alt="Logo" />
+          <img src="media/images/finalLogo.png" style={{ width: "39%" }} alt="Logo" />
         </Link>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
