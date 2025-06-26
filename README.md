@@ -32,6 +32,7 @@ A full-stack personal finance management app built using the MERN stack. This ap
 ### Frontend (`/expense-tracker`)
 src/
 ├── Dashboard/ # Dashboard components
+
 ├── budgetPage/ # Budget management UI
 ├── AllTransactions/ # Full transaction history view
 ├── services/ # API and service functions
