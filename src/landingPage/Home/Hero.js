@@ -8,6 +8,7 @@ function Hero() {
           <h1>
             Track Your Expenses, Plan Your Future
           </h1>
+          <h1>Aditi Singh</h1>
           <p>
             A simple and efficient way to manage your income, expenses, and
             savings all in one place.
